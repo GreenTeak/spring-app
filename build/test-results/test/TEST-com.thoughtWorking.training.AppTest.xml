@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtWorking.training.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-30T12:45:09" hostname="CNtge.local" time="0.0">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="com.thoughtWorking.training.AppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
